@@ -1,0 +1,16 @@
+{
+  "name": "Infiora AI",
+  "short_name": "Infiora",
+  "description": "Your Ideas. Your Intelligence.",
+  "id": "/",
+  "start_url": "/chat",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070b1f",
+  "theme_color": "#070b1f",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
